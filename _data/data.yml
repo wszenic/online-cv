@@ -72,21 +72,22 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Python Developer
+      - role: Python Developer / Deep Learning Engineer
         time: 2021 - Present
         company: Warsaw University of Technology
         details: |
-         Python developer on a deep learning research project. The aim of the project was to develop a novel
-          approach to image recognition and image detection tasks, which was then used in a scavenger hunt type of game.
+         Part time Python developer, working as a deep learning engineer on a university research project. 
+          The aim of the project was to develop a novel approach to image recognition and image detection tasks,
+          which will be then used in an automatic scavenger hunt game.
           My role was implementing deep learning layers and architecture based on academic papers. I'm also responsible
-          for training the models to test their accuracy.
+          for training the models to test their accuracy and verify performance.
       - role: Senior Data Scientist
         time: 2021 - Present
         company: Olx group
         details: |
           Data scientist working for a large classifieds platform. My main project was building and scaling a model for
-          recommending ad promotions in all business units and countries were the platform was present. I also did a few
-          other, smaller projects mainly focused on NLP analysis of chat data.
+          recommending ad promotions in all business units and countries where the platform is present. I also did a few
+          other, smaller projects, mainly focused on NLP analysis of chat data.
       - role: Data Scientist
         time: 2020 - 2021
         company: AMA Institute
@@ -105,7 +106,7 @@ experiences:
         company: WLOG Solutions
         details: |
           Data scientist in a small consulting company. The main project I Was working on was creating a solver 
-          for a version of the travelling salesman problem. The solver was the used by a shopping delivery company
+          for a version of the traveling salesman problem. The solver was the used by a shopping delivery company
           to plan their courier's routes around the city in the most optimal way.
 
 skills:
@@ -124,7 +125,10 @@ skills:
       - name: Deep Learning
         level: 95%
 
-      - name: XGboost, Catoobst, LightGBM
+      - name: XGboost
+        level: 90%
+
+      - name: SQL
         level: 90%
 
       - name: Pandas
